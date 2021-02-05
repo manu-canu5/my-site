@@ -1,0 +1,64 @@
+body{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+header{
+    width: 10rem;
+}
+.content{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.185);
+    border-radius:70px;
+}
+
+.books{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+}
+.school{
+    width: 10rem;
+    height: 5rem;
+    background-color: coral;
+}
+.head{
+    display: flex;
+    justify-content: flex-start;
+}
+.class{
+    width: 100px;
+    height: 80px;
+}
+.styling{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color:cyan;
+}
+.container{
+    background-color: cyan;
+}
+.images{
+    /* background-color: green; */
+}
+.paragraph{
+  font-size: 21px;
+  /* width: 100px; */
+  /* height: 100px; */
+}
+.num{
+    font-size: 22px;
+}
+.button{
+    width: 7rem;
+    padding: 0.4rem;
+    background-color: rgb(189, 16, 189);
+    border: none;
+    color: white
+}
+.service{
+   width: 150px;
+   background-color: black;
+}
